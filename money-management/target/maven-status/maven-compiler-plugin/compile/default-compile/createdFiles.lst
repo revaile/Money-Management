@@ -1,0 +1,5 @@
+main\uangku\services\IncomeServices.class
+main\uangku\repository\IncomeRepository.class
+main\uangku\controller\IndexController.class
+main\uangku\models\entities\Income.class
+main\uangku\UangkuApplication.class
